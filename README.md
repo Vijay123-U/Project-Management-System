@@ -59,3 +59,21 @@ src
 │       └── application.properties
 │
 └── test
+
+
+## Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Employee Management
+![Employee Management](employees.png)
+
+### Project Management
+![Project Management](projects.png)
+
+### Task Management
+![Task Management](tasks.png)
+
+### Employee Work Report
+![Employee Work Report](work-report.png)
