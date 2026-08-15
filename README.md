@@ -64,16 +64,16 @@ src
 ## Screenshots
 
 ### Home Page
-![Home Page](home.png)
+![Home Page](Home.png)
 
 ### Employee Management
-![Employee Management](employees.png)
+![Employee Management](Employees.png)
 
 ### Project Management
-![Project Management](projects.png)
+![Project Management](Projects.png)
 
 ### Task Management
-![Task Management](tasks.png)
+![Task Management](Tasks.png)
 
 ### Employee Work Report
-![Employee Work Report](work-report.png)
+![Employee Work Report](Work-report.png)
